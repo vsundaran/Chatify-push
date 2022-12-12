@@ -1,0 +1,45 @@
+.over-all-navbar{
+    padding: 0px 3px;
+    display: flex;
+    align-items: center;
+   
+}
+
+.brand-logo{
+    width: 35px;
+    border-radius: 2px;
+}
+.left-wrapper{
+    display: flex;
+    align-items: center;
+    
+}
+.input-wrapper{
+    padding-left: 10px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    margin: 0px 5px;
+    background-color: #22303e;
+    
+}
+.input{
+    border: none;
+    font-size: 14px;
+    background-color: #22303e;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.icon{
+    font-size: 19px;
+    color: rgb(102 102 102);
+}
+.boom{
+    font-size: 18px;
+}
